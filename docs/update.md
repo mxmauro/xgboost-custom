@@ -1,0 +1,1 @@
+Just run `git pull origin master`and `git submodule update --recursive --remote` in source folder.

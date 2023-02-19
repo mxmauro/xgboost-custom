@@ -1,0 +1,4 @@
+*.~*
+/Source/.git/
+/Source/.github/
+/build/
